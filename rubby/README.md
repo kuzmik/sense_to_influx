@@ -1,0 +1,1 @@
+I would have preferred to use ruby for this project, but there is some kind of bug in the `unofficial_sense_api` ruby library that doesn't pick up device activity changes. The python library is more accurate.
